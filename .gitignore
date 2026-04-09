@@ -41,5 +41,5 @@
 *.dwo
 
 # bulid
-/bin
-/bulid
+./bin
+./bulid
