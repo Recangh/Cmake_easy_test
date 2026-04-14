@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Demo/VsCode(C++)/CMake_easy/Cmake_easy_test/planning_main.cpp" "CMakeFiles/planning_main.dir/planning_main.cpp.obj" "gcc" "CMakeFiles/planning_main.dir/planning_main.cpp.obj.d"
+  "/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/planning_main.cpp" "CMakeFiles/planning_main.dir/planning_main.cpp.o" "gcc" "CMakeFiles/planning_main.dir/planning_main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

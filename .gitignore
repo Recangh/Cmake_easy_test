@@ -40,6 +40,6 @@
 # debug information files
 *.dwo
 
-# bulid
-./bin
-./bulid
+# build
+bin/
+build/

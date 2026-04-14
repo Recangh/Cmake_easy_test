@@ -1,20 +1,20 @@
 [
 {
-  "directory": "D:/Demo/VsCode(C++)/CMake_easy/Cmake_easy_test/build",
-  "command": "D:\\DownLoads\\Mingw15.2.0\\x86_64-15.2.0-release-posix-seh-ucrt-rt_v13-rev1\\mingw64\\bin\\g++.exe -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\common.dir\\src\\pnc_map.cpp.obj -c D:\\Demo\\VsCode(C++)\\CMake_easy\\Cmake_easy_test\\src\\pnc_map.cpp",
-  "file": "D:/Demo/VsCode(C++)/CMake_easy/Cmake_easy_test/src/pnc_map.cpp",
-  "output": "CMakeFiles/common.dir/src/pnc_map.cpp.obj"
+  "directory": "/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/build",
+  "command": "/usr/bin/g++ -Dcommon_EXPORTS -I\"/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/include\" -g -std=gnu++11 -fPIC -o CMakeFiles/common.dir/src/pnc_map.cpp.o -c \"/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/src/pnc_map.cpp\"",
+  "file": "/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/src/pnc_map.cpp",
+  "output": "CMakeFiles/common.dir/src/pnc_map.cpp.o"
 },
 {
-  "directory": "D:/Demo/VsCode(C++)/CMake_easy/Cmake_easy_test/build",
-  "command": "D:\\DownLoads\\Mingw15.2.0\\x86_64-15.2.0-release-posix-seh-ucrt-rt_v13-rev1\\mingw64\\bin\\g++.exe -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\common.dir\\src\\process.cpp.obj -c D:\\Demo\\VsCode(C++)\\CMake_easy\\Cmake_easy_test\\src\\process.cpp",
-  "file": "D:/Demo/VsCode(C++)/CMake_easy/Cmake_easy_test/src/process.cpp",
-  "output": "CMakeFiles/common.dir/src/process.cpp.obj"
+  "directory": "/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/build",
+  "command": "/usr/bin/g++ -Dcommon_EXPORTS -I\"/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/include\" -g -std=gnu++11 -fPIC -o CMakeFiles/common.dir/src/process.cpp.o -c \"/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/src/process.cpp\"",
+  "file": "/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/src/process.cpp",
+  "output": "CMakeFiles/common.dir/src/process.cpp.o"
 },
 {
-  "directory": "D:/Demo/VsCode(C++)/CMake_easy/Cmake_easy_test/build",
-  "command": "D:\\DownLoads\\Mingw15.2.0\\x86_64-15.2.0-release-posix-seh-ucrt-rt_v13-rev1\\mingw64\\bin\\g++.exe  @CMakeFiles/planning_main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c D:\\Demo\\VsCode(C++)\\CMake_easy\\Cmake_easy_test\\planning_main.cpp",
-  "file": "D:/Demo/VsCode(C++)/CMake_easy/Cmake_easy_test/planning_main.cpp",
-  "output": "CMakeFiles/planning_main.dir/planning_main.cpp.obj"
+  "directory": "/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/build",
+  "command": "/usr/bin/g++  -I\"/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/include\" -g -std=gnu++11 -o CMakeFiles/planning_main.dir/planning_main.cpp.o -c \"/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/planning_main.cpp\"",
+  "file": "/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/planning_main.cpp",
+  "output": "CMakeFiles/planning_main.dir/planning_main.cpp.o"
 }
 ]

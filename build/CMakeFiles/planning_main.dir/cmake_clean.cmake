@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/planning_main.dir/planning_main.cpp.obj"
-  "CMakeFiles/planning_main.dir/planning_main.cpp.obj.d"
-  "D:/Demo/VsCode(C++)/CMake_easy/Cmake_easy_test/bin/planning_main.exe"
-  "D:/Demo/VsCode(C++)/CMake_easy/Cmake_easy_test/bin/planning_main.exe.manifest"
-  "D:/Demo/VsCode(C++)/CMake_easy/Cmake_easy_test/bin/planning_main.pdb"
-  "libplanning_main.dll.a"
+  "/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/bin/planning_main"
+  "/home/recangh/Desktop/Demo/Vscode(C++)/gitTest/Cmake_easy_test/bin/planning_main.pdb"
+  "CMakeFiles/planning_main.dir/planning_main.cpp.o"
+  "CMakeFiles/planning_main.dir/planning_main.cpp.o.d"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,3 +1,1 @@
-D:\DownLoads\CMake\cmake-4.3.1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\common.dir/objects.a
-D:\DownLoads\Mingw15.2.0\x86_64-15.2.0-release-posix-seh-ucrt-rt_v13-rev1\mingw64\bin\ar.exe qc CMakeFiles\common.dir/objects.a @CMakeFiles\common.dir\objects1.rsp
-D:\DownLoads\Mingw15.2.0\x86_64-15.2.0-release-posix-seh-ucrt-rt_v13-rev1\mingw64\bin\g++.exe -g -shared -o D:\Demo\VsCode(C++)\CMake_easy\Cmake_easy_test\bin\libcommon.dll -Wl,--out-implib,libcommon.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\common.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\common.dir\linkLibs.rsp
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libcommon.so -o libcommon.so CMakeFiles/common.dir/src/pnc_map.cpp.o CMakeFiles/common.dir/src/process.cpp.o 
